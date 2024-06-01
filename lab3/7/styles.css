@@ -1,0 +1,86 @@
+/*#wrapper {
+	display: flex;
+	width: 33%;
+}
+
+#sectionA,
+#sectionB,
+#sectionC {
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 33%;
+}*/
+
+#one {
+	height: 10em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	float: left;
+	width: 200px;
+    height: 100px;
+	background-color: red;
+	border-radius: 20px;
+}
+
+#two {
+	height: 10em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	float: left;
+	width: 200px;
+    height: 100px;
+	background-color: blue;
+	border-radius: 20px;
+}
+
+#three {
+	height: 10em;
+	align-items: center;
+	justify-content: center;
+	width: 200px;
+    height: 50px;
+	float: right;
+	color: white;
+	background-color: blue;
+	border-radius: 20px;
+}
+
+#four {
+	height: 10em;
+	align-items: center;
+	justify-content: center;
+	width: 200px;
+    height: 50px;
+	float: right;
+	color: black;
+	background-color: yellow;
+	border-radius: 20px;
+}
+
+#five {
+	height: 10em;
+	align-items: center;
+	justify-content: center;
+	width: 200px;
+    height: 50px;
+	float: right;
+	color: white;
+	background-color: red;
+	border-radius: 20px;
+}
+
+#six {
+	height: 10em;
+	align-items: center;
+	justify-content: center;
+	width: 200px;
+    height: 50px;
+	float: right;
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+}
