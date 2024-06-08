@@ -1,0 +1,23 @@
+#stack {
+    width: 130px;
+    height: 260px;
+    border: solid 1px gray;
+    border-top: 0px;
+  }
+  
+  .brick {
+    width: 11px;
+    height: 11px;
+    border: solid 1px green;
+    background: green;
+    float: left;
+  }
+  
+  .brick.on {
+    background: grey;
+  }
+  
+  .brick.now {
+    background: greenyellow;
+  }
+  
